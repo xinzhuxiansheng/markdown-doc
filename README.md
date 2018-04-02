@@ -1,7 +1,7 @@
 # markdown-doc
 使用markdown语法的文档管理工具
 
-使用技术：springMVC、hsqldb、bootstrap、jQuery
+使用技术：springMVC、sqlite3、bootstrap、jQuery
 
 初始化项目：http://xxx/init
 
